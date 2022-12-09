@@ -7,10 +7,10 @@ The goal of this project is to create a user defined story app where the user ma
 ## Scope
 
 ## Current Modules
-* ### To be added... 
+* **User Interface:** Custom UI for login page, menu, settings, etc. 
 
 ## Authors
-* Carter / 
+* Carter / Noah 
 
 ## Version History
 * Version 0.1
