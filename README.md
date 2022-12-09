@@ -17,4 +17,4 @@ The goal of this project is to create a user defined story app where the user ma
   * Project Announcement
 
 ## License
-This project is licensed uner the MIT License.
+This project is licensed under the MIT License.
